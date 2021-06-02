@@ -13,12 +13,6 @@
       "reminder": true
     },
     {
-      "text": "blah",
-      "day": "",
-      "reminder": false,
-      "id": 3
-    },
-    {
       "text": "test",
       "day": "No",
       "reminder": true,
